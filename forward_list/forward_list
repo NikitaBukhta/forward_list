@@ -1,0 +1,8 @@
+#ifndef MY_FORWARD_LIST_H
+#define MY_FORWARD_LIST_H
+
+#include "forward_list.h"
+#include "src/forward_list.cpp"
+#include "src/node.cpp"
+
+#endif // !MY_FORWARD_LIST_H
